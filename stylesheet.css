@@ -1,0 +1,108 @@
+/* Reset CSS (DO NOT DELETE) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+   
+   
+   
+}
+
+li {
+  list-style: none;
+}
+
+.c1{
+  background-color:#26d0c9;
+  height:90px;
+  color:white;
+}
+.c2{
+  padding:20px 40px;
+  font-size:36px;
+  float:left;
+}
+.c1 li{
+  float:right;
+  padding:33px 20px;
+}
+.c4 h1{
+  font-size:140px;
+}
+.c4 h2{
+  font-size:60px;
+}
+.c4 span{
+  color:#ff4a4a;
+}
+.c5{
+  height:500px;
+  margin-top:100px;
+}
+.c5 h3{
+  font-size:28px;
+  border-bottom:2px solid #dee7ec;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+.c6{
+  float:left;
+  margin-right:40px;
+}
+.c6 p{
+  font-size:24px;
+  margin-top:30px;
+}
+.c5{
+  float:left;
+  font-size:24px;
+  margin-bottom:100px;
+}
+.c3{
+  padding:100px 80px;
+}
+.c7{
+  padding-top:100px;
+}
+.c8{
+  border-bottom:2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+input,textarea{
+  width:400px;
+  padding:20px;
+  font-size:18px;
+  margin-top:10px;
+  margin-bottom:30px;
+  border:1px solid #dee7ec;
+}
+.pp{
+  background-color:#dee7ec;
+  color:#889eab;
+}
+.c9{
+  height:120px;
+  padding:40px;
+  background-color:#2f5167;
+}
+.c10{
+  font-size:32px;
+  color:#fff;
+  float:left;
+}
+.c11{
+  text-align:left;
+  float:right;
+}
+.c9 li{
+  color:#fff;
+  padding-bottom:20px;
+}
